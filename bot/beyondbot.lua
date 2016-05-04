@@ -245,10 +245,7 @@ function create_config( )
     "Id",
     "rankSLM",
     "BLOCK",
-    "ECHO",
     "echo",
-    "Calculator",
-    "GET",
     "link",
     "invite2",
     "banhammer",
@@ -265,7 +262,6 @@ function create_config( )
     "antifosh",
     "lock_eng",
     "antisticker",
-    "tosupp",
     "txt2stick",
     "ingroup",
     "setstick",
@@ -276,7 +272,6 @@ function create_config( )
     "translate",
     "shortlink",
     "google",
-    "share_contact",
     "help_pv",
     "filterword",
     "apk",
@@ -295,25 +290,16 @@ function create_config( )
     "antispam_pv",
     "killme"
     },
-    sudo_users = {157059515},--Sudo users
+    sudo_users = {147237497},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[😎Tele Beyond V4.5😎
+    about_text = [[🔧Soft TG version v1🔧�
 ➡️An Administrator The PowerFull Bot Based On TeleSeed And Bilingual Written On Lua⬅️
 
 ▶️Sudo Users :
 
-Developer&Founder : @SoLiD021
-
-Manager&Helper : @MrHalix
-
-#⃣Team Channel :
-✌️ @BeyondTeam ✌️
-
-❤️Special Thx To :
-@idivanmanheb
-Beyond Team
-And All My Friends
+Sudo  : @Mohammad_NBG
+Sudo 2 : @Hextor_Admin
 ]],
     help_text_realm = [[
 Realm Commands:
