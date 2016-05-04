@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
 	if msg.to.type == 'chat' and is_momod(msg) then
-  return 'Tele Bd Team Command List'..[[
+  return 'Soft TG Command List'..[[
 
 ❤لیست دستورات💙:
 🔴kick [آیدی،یوزر،ریپلی] 
@@ -93,23 +93,7 @@ function run(msg, matches)
 ⇨!help
 در پیوی ربات با این دستور راهنمای مدیریت گروه از پیوی را مشاهده کنید
 !مخصوص صاحب گروه!
-➖➖➖➖➖➖➖
-1_شما میتونید از / ! استفاده کنید 
-2_برای ارسال نظر از دستور 
-feedback (متن)
-استفاده کنید
-3_برای دریافت لینک گروه پشتیبانی از دستور
-!linksup
-استفاده کنید
-4_برای ادد شدن ربات سخنگو ما از دستور
-!kosgo
-استفاده کنید👌😂
-➖➖➖➖➖➖➖
-V 4.5 @TeleBeyond
-Team Channel : @BeyondTeam
-Sudo Users :  👤
-@SoLiD021
-@MrHalix]]
+➖➖➖➖➖➖➖]]
 end
 end
 return {
