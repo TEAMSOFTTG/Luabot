@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
 if is_sudo(msg) then
-send_contact(get_receiver(msg), "+989010541950", "", "✌️ፐɛʆε👉👈βĐ™✌", ok_cb, false)
+send_contact(get_receiver(msg), "+639380036920", "", "🔥Soft TG🔥", ok_cb, false)
 end
 end
 
